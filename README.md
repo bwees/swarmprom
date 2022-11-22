@@ -1,1 +1,1 @@
-# swarmprom
+# SwarmProm Docker Image
