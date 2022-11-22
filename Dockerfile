@@ -1,4 +1,4 @@
-FROM prom/node-exporter:v1.4.0
+FROM prom/node-exporter:v0.16.0
 
 USER root
 
